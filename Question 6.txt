@@ -1,0 +1,7 @@
+First, I would delve into the existing documentation of the current system, 
+which contains information such as the version numbers in use. This can facilitate my search for a solution.
+
+In case I am still stuck, I would gather information, including my intended goal, the steps I have taken so far, 
+the documents and websites I have consulted. Then, I would seek assistance from a colleague. Initially, I would check if they 
+have the time and are available to avoid infringing on their deliverables. 
+Subsequently, I would show them the unsuccessful attempts, enabling them to understand precisely where and what I am missing in my code.

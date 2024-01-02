@@ -1,0 +1,10 @@
+Firstly I would create a new 'feature branch would have to be created, this is where they will work and make changes. For this I'd use this command 'git checkout -b feature-branch' to create a new branch and switch to it. This ensures all changes are done on the newly created branch.
+Once changes have been made 'git add .' and 'git commit -m "Your commit message"' will be used to stage and commut the changes to the feature branch.
+
+Next we use 'git status'. This command  lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.  
+
+Before pushing changes to the dev branch it's ideal to create a fetch request so when you push you are adding your code to the latest codeset. This is achieved with 'git fetch '. After fetching you need to pull to pull updates from the remote repository into your local branch with 'git pull origin branch-name'.
+Once done you need to push the latest codeset with your changes you push the code to the repository using 'git push origin branch-name'. 
+
+
+Regular communication with your colleague and a well-defined branching strategy contribute to an effective collaborative workflow.
